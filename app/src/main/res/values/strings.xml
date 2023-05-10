@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">testTotalPlay</string>
+    <string name="ingresa_cuenta">Ingresa a tu cuenta.</string>
+    <string name="cuenta_correo_telefono">Cuenta, correo y teléfono</string>
+    <string name="password">Contraseña</string>
+    <string name="olvide_contraseña">Olvidé mi contraseña</string>
+    <string name="Iniciar_sesion">Iniciar sesión</string>
+    <string name="referencias">Referencias bancarias</string>
+    <string name="title_references">Utiliza la referencia bancaria para pagar en los bancos participantes</string>
+</resources>
